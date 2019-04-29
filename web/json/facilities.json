@@ -1,0 +1,1177 @@
+[
+ {
+   "FacilityID": 1,
+   "FacilityName": "Kabarnet District Hospital",
+   "MFLCode": 14607
+ },
+ {
+   "FacilityID": 2,
+   "FacilityName": "Kaptimbor Dispensary",
+   "MFLCode": 14784
+ },
+ {
+   "FacilityID": 4,
+   "FacilityName": "Kituro Health Centre",
+   "MFLCode": 14953
+ },
+ {
+   "FacilityID": 7,
+   "FacilityName": "Tenges Health Centre",
+   "MFLCode": 15718
+ },
+ {
+   "FacilityID": 10,
+   "FacilityName": "Barwessa HealthCentre",
+   "MFLCode": 14243
+ },
+ {
+   "FacilityID": 11,
+   "FacilityName": "Kabartonjo District Hospital",
+   "MFLCode": 14609
+ },
+ {
+   "FacilityID": 15,
+   "FacilityName": "Chemolingot District Hospital",
+   "MFLCode": 14321
+ },
+ {
+   "FacilityID": 18,
+   "FacilityName": "Arama dispensary",
+   "MFLCode": 14211
+ },
+ {
+   "FacilityID": 20,
+   "FacilityName": "Eldama Ravine District Hospital",
+   "MFLCode": 14432
+ },
+ {
+   "FacilityID": 21,
+   "FacilityName": "Esageri Health Centre",
+   "MFLCode": 14477
+ },
+ {
+   "FacilityID": 23,
+   "FacilityName": "Mercy Hospital",
+   "MFLCode": 15174
+ },
+ {
+   "FacilityID": 25,
+   "FacilityName": "Timboroa Health Centre",
+   "MFLCode": 15725
+ },
+ {
+   "FacilityID": 26,
+   "FacilityName": "Torongo Health Centre",
+   "MFLCode": 15735
+ },
+ {
+   "FacilityID": 28,
+   "FacilityName": "Kimalel Health centre",
+   "MFLCode": 14867
+ },
+ {
+   "FacilityID": 29,
+   "FacilityName": "Marigat Catholic Mission",
+   "MFLCode": 15137
+ },
+ {
+   "FacilityID": 30,
+   "FacilityName": "Marigat Sub District Hospital",
+   "MFLCode": 15138
+ },
+ {
+   "FacilityID": 31,
+   "FacilityName": "Mochongoi Health Centre",
+   "MFLCode": 15192
+ },
+ {
+   "FacilityID": 33,
+   "FacilityName": "Emining Health Centre",
+   "MFLCode": 14446
+ },
+ {
+   "FacilityID": 34,
+   "FacilityName": "Kisanana Health Centre",
+   "MFLCode": 14940
+ },
+ {
+   "FacilityID": 35,
+   "FacilityName": "Mogotio Dispensary",
+   "MFLCode": 15198
+ },
+ {
+   "FacilityID": 111,
+   "FacilityName": "Bisil Health Centre",
+   "MFLCode": 14259
+ },
+ {
+   "FacilityID": 113,
+   "FacilityName": "Kajiado District Hospital",
+   "MFLCode": 14652
+ },
+ {
+   "FacilityID": 114,
+   "FacilityName": "Mailwa Dispensary",
+   "MFLCode": 15109
+ },
+ {
+   "FacilityID": 116,
+   "FacilityName": "Mashuru Health Centre",
+   "MFLCode": 15150
+ },
+ {
+   "FacilityID": 119,
+   "FacilityName": "Namanga Health Centre",
+   "MFLCode": 15294
+ },
+ {
+   "FacilityID": 121,
+   "FacilityName": "Simba Health Centre",
+   "MFLCode": 15574
+ },
+ {
+   "FacilityID": 123,
+   "FacilityName": "Embul - Bul Catholic Dispensary",
+   "MFLCode": 14445
+ },
+ {
+   "FacilityID": 125,
+   "FacilityName": "Ereteti Dispensary",
+   "MFLCode": 14475
+ },
+ {
+   "FacilityID": 126,
+   "FacilityName": "Esonorua Dispensary",
+   "MFLCode": 16427
+ },
+ {
+   "FacilityID": 127,
+   "FacilityName": "Fatima Maternity Hospital",
+   "MFLCode": 14494
+ },
+ {
+   "FacilityID": 128,
+   "FacilityName": "Kitengela Medical Services",
+   "MFLCode": 14951
+ },
+ {
+   "FacilityID": 129,
+   "FacilityName": "Magadi Hospital",
+   "MFLCode": 15107
+ },
+ {
+   "FacilityID": 130,
+   "FacilityName": "Mariakani Cottage Hospital Ongatta Rongai",
+   "MFLCode": 18084
+ },
+ {
+   "FacilityID": 131,
+   "FacilityName": "Nairobi Women Hospital Ongata Rongai",
+   "MFLCode": 18195
+ },
+ {
+   "FacilityID": 132,
+   "FacilityName": "Sinai Mount Hospital",
+   "MFLCode": 15581
+ },
+ {
+   "FacilityID": 133,
+   "FacilityName": "Isinya Health Centre",
+   "MFLCode": 14582
+ },
+ {
+   "FacilityID": 134,
+   "FacilityName": "Kitengela Health Centre",
+   "MFLCode": 14950
+ },
+ {
+   "FacilityID": 137,
+   "FacilityName": "Ngong Sub-District Hospital",
+   "MFLCode": 15351
+ },
+ {
+   "FacilityID": 140,
+   "FacilityName": "Oloolua Dispensary",
+   "MFLCode": 17799
+ },
+ {
+   "FacilityID": 141,
+   "FacilityName": "Olooseos Dispensary",
+   "MFLCode": 15425
+ },
+ {
+   "FacilityID": 143,
+   "FacilityName": "Ongata Rongai Health Centre",
+   "MFLCode": 15440
+ },
+ {
+   "FacilityID": 148,
+   "FacilityName": "St Therese Dispensary",
+   "MFLCode": 15667
+ },
+ {
+   "FacilityID": 149,
+   "FacilityName": "Sucos Hospital",
+   "MFLCode": 14204
+ },
+ {
+   "FacilityID": 154,
+   "FacilityName": "Ewuaso Kedong Dispensary",
+   "MFLCode": 14486
+ },
+ {
+   "FacilityID": 156,
+   "FacilityName": "Cedar Medical Clinic (Kimana)",
+   "MFLCode": 14281
+ },
+ {
+   "FacilityID": 157,
+   "FacilityName": "Entarara Health Centre",
+   "MFLCode": 14467
+ },
+ {
+   "FacilityID": 158,
+   "FacilityName": "Fatima Health Centre (Lenkism)",
+   "MFLCode": 14493
+ },
+ {
+   "FacilityID": 160,
+   "FacilityName": "Immurtot Health Centre",
+   "MFLCode": 14573
+ },
+ {
+   "FacilityID": 161,
+   "FacilityName": "Isinet Dispensary",
+   "MFLCode": 14581
+ },
+ {
+   "FacilityID": 162,
+   "FacilityName": "Kimana Health Centre",
+   "MFLCode": 14868
+ },
+ {
+   "FacilityID": 163,
+   "FacilityName": "Loitokitok District Hospital",
+   "MFLCode": 15051
+ },
+ {
+   "FacilityID": 164,
+   "FacilityName": "Namelok Health Centre",
+   "MFLCode": 15296
+ },
+ {
+   "FacilityID": 165,
+   "FacilityName": "Nkama Dispensary",
+   "MFLCode": 15361
+ },
+ {
+   "FacilityID": 166,
+   "FacilityName": "Oldoinyo Oibor Dispensary",
+   "MFLCode": 17671
+ },
+ {
+   "FacilityID": 167,
+   "FacilityName": "Rombo Health Centre",
+   "MFLCode": 15490
+ },
+ {
+   "FacilityID": 170,
+   "FacilityName": "Langata Enkima Dispensary",
+   "MFLCode": 15012
+ },
+ {
+   "FacilityID": 171,
+   "FacilityName": "Entasopia Health Centre",
+   "MFLCode": 14469
+ },
+ {
+   "FacilityID": 225,
+   "FacilityName": "Lamuria Dispensary (Laikipia East)",
+   "MFLCode": 15007
+ },
+ {
+   "FacilityID": 226,
+   "FacilityName": "Matanya Dispensary",
+   "MFLCode": 15152
+ },
+ {
+   "FacilityID": 227,
+   "FacilityName": "Ngobit Dispensary",
+   "MFLCode": 15349
+ },
+ {
+   "FacilityID": 229,
+   "FacilityName": "Top Choice Maternity And Nursing Home",
+   "MFLCode": 15306
+ },
+ {
+   "FacilityID": 230,
+   "FacilityName": "Kalalu Dispensary",
+   "MFLCode": 14659
+ },
+ {
+   "FacilityID": 231,
+   "FacilityName": "Likii Dispensary",
+   "MFLCode": 15035
+ },
+ {
+   "FacilityID": 232,
+   "FacilityName": "Muramati Dispensary",
+   "MFLCode": 15253
+ },
+ {
+   "FacilityID": 233,
+   "FacilityName": "Nanyuki Cottage Hospital",
+   "MFLCode": 15304
+ },
+ {
+   "FacilityID": 234,
+   "FacilityName": "Nanyuki District Hospital",
+   "MFLCode": 15305
+ },
+ {
+   "FacilityID": 235,
+   "FacilityName": "Segera Mission Dispensary",
+   "MFLCode": 17029
+ },
+ {
+   "FacilityID": 237,
+   "FacilityName": "Doldol Health Centre",
+   "MFLCode": 14404
+ },
+ {
+   "FacilityID": 238,
+   "FacilityName": "Ilpolei Dispensary",
+   "MFLCode": 14561
+ },
+ {
+   "FacilityID": 242,
+   "FacilityName": "Karaba Dispensary (Laikipia West)",
+   "MFLCode": 14800
+ },
+ {
+   "FacilityID": 243,
+   "FacilityName": "Melwa Health Centre",
+   "MFLCode": 15170
+ },
+ {
+   "FacilityID": 244,
+   "FacilityName": "Mutara Dispensary",
+   "MFLCode": 15261
+ },
+ {
+   "FacilityID": 247,
+   "FacilityName": "Olmoran Health Centre",
+   "MFLCode": 15417
+ },
+ {
+   "FacilityID": 249,
+   "FacilityName": "Rumuruti District Hospital",
+   "MFLCode": 15502
+ },
+ {
+   "FacilityID": 251,
+   "FacilityName": "Sipili Health Centre",
+   "MFLCode": 15589
+ },
+ {
+   "FacilityID": 254,
+   "FacilityName": "Muthegera Dispensary",
+   "MFLCode": 15263
+ },
+ {
+   "FacilityID": 256,
+   "FacilityName": "Ndindika Health Centre",
+   "MFLCode": 15325
+ },
+ {
+   "FacilityID": 258,
+   "FacilityName": "Ngarua Health Centre",
+   "MFLCode": 15339
+ },
+ {
+   "FacilityID": 259,
+   "FacilityName": "Oljabet Health Centre",
+   "MFLCode": 15404
+ },
+ {
+   "FacilityID": 260,
+   "FacilityName": "Salama Health Centre (Laikipia West)",
+   "MFLCode": 15520
+ },
+ {
+   "FacilityID": 286,
+   "FacilityName": "Eburru Dispensary",
+   "MFLCode": 14425
+ },
+ {
+   "FacilityID": 288,
+   "FacilityName": "Gilgil Sub-District Hospital",
+   "MFLCode": 14510
+ },
+ {
+   "FacilityID": 290,
+   "FacilityName": "Holy Spirit Health Centre",
+   "MFLCode": 14549
+ },
+ {
+   "FacilityID": 292,
+   "FacilityName": "Karunga Dispensary",
+   "MFLCode": 14805
+ },
+ {
+   "FacilityID": 293,
+   "FacilityName": "Kiambogo Dispensary (Naivasha)",
+   "MFLCode": 14845
+ },
+ {
+   "FacilityID": 294,
+   "FacilityName": "Kiptangwanyi Dispensary",
+   "MFLCode": 14926
+ },
+ {
+   "FacilityID": 296,
+   "FacilityName": "St Mary's Hospital (Naivasha)",
+   "MFLCode": 15654
+ },
+ {
+   "FacilityID": 300,
+   "FacilityName": "Ikumbi Health Centre",
+   "MFLCode": 14559
+ },
+ {
+   "FacilityID": 301,
+   "FacilityName": "Kamara Dispensary",
+   "MFLCode": 14668
+ },
+ {
+   "FacilityID": 302,
+   "FacilityName": "Keringet Health Centre (Kuresoi)",
+   "MFLCode": 14836
+ },
+ {
+   "FacilityID": 303,
+   "FacilityName": "Kiptagich Dispensary",
+   "MFLCode": 14924
+ },
+ {
+   "FacilityID": 305,
+   "FacilityName": "Kuresoi Health Centre",
+   "MFLCode": 16683
+ },
+ {
+   "FacilityID": 306,
+   "FacilityName": "Mau Summit Medical Clinic",
+   "MFLCode": 15157
+ },
+ {
+   "FacilityID": 307,
+   "FacilityName": "Mercy Dispensary",
+   "MFLCode": 15173
+ },
+ {
+   "FacilityID": 308,
+   "FacilityName": "Murindoku Dispensary",
+   "MFLCode": 17191
+ },
+ {
+   "FacilityID": 309,
+   "FacilityName": "Ndoinet Dispensary",
+   "MFLCode": 15326
+ },
+ {
+   "FacilityID": 310,
+   "FacilityName": "Olenguruone Sub-District Hospital",
+   "MFLCode": 15398
+ },
+ {
+   "FacilityID": 328,
+   "FacilityName": "Elburgon Sub-District Hospital",
+   "MFLCode": 14431
+ },
+ {
+   "FacilityID": 329,
+   "FacilityName": "St Joseph Nursing home",
+   "MFLCode": 16409
+ },
+ {
+   "FacilityID": 330,
+   "FacilityName": "Mariashoni Dispensary",
+   "MFLCode": 15129
+ },
+ {
+   "FacilityID": 331,
+   "FacilityName": "Molo District Hospital",
+   "MFLCode": 15212
+ },
+ {
+   "FacilityID": 332,
+   "FacilityName": "Molo Medical Centre",
+   "MFLCode": 15213
+ },
+ {
+   "FacilityID": 333,
+   "FacilityName": "Nyakiambi Dispensary",
+   "MFLCode": 15370
+ },
+ {
+   "FacilityID": 334,
+   "FacilityName": "Sachang'wan Dispensary",
+   "MFLCode": 15509
+ },
+ {
+   "FacilityID": 335,
+   "FacilityName": "St Clare Dispensary",
+   "MFLCode": 15635
+ },
+ {
+   "FacilityID": 343,
+   "FacilityName": "Finlays  Hospital",
+   "MFLCode": 14551
+ },
+ {
+   "FacilityID": 344,
+   "FacilityName": "Holy Trinity Health Centre(Mai Mahiu)",
+   "MFLCode": 14550
+ },
+ {
+   "FacilityID": 349,
+   "FacilityName": "Oserian Health Centre",
+   "MFLCode": 15447
+ },
+ {
+   "FacilityID": 353,
+   "FacilityName": "Karagita Dispensary",
+   "MFLCode": 14801
+ },
+ {
+   "FacilityID": 354,
+   "FacilityName": "Karati Dispensary",
+   "MFLCode": 14802
+ },
+ {
+   "FacilityID": 355,
+   "FacilityName": "Kijani (Mirera) Dispensary",
+   "MFLCode": 17821
+ },
+ {
+   "FacilityID": 356,
+   "FacilityName": "Kings Clinic",
+   "MFLCode": 17545
+ },
+ {
+   "FacilityID": 358,
+   "FacilityName": "Mai Mahiu Health centre",
+   "MFLCode": 15108
+ },
+ {
+   "FacilityID": 359,
+   "FacilityName": "Maiela Health Centre",
+   "MFLCode": 15106
+ },
+ {
+   "FacilityID": 360,
+   "FacilityName": "Moi Ndabi Dispensary",
+   "MFLCode": 15203
+ },
+ {
+   "FacilityID": 361,
+   "FacilityName": "Naivasha District Hospital",
+   "MFLCode": 15280
+ },
+ {
+   "FacilityID": 362,
+   "FacilityName": "Ndabibi Dispensary",
+   "MFLCode": 15318
+ },
+ {
+   "FacilityID": 366,
+   "FacilityName": "Rocco Dispensary",
+   "MFLCode": 15489
+ },
+ {
+   "FacilityID": 377,
+   "FacilityName": "Bondeni Dispensary (Nakuru Central)",
+   "MFLCode": 14263
+ },
+ {
+   "FacilityID": 381,
+   "FacilityName": "Family Health options Kenya (Nakuru)",
+   "MFLCode": 14177
+ },
+ {
+   "FacilityID": 382,
+   "FacilityName": "FITC Dispensary",
+   "MFLCode": 14498
+ },
+ {
+   "FacilityID": 383,
+   "FacilityName": "Fountain Medical clinic",
+   "MFLCode": 17787
+ },
+ {
+   "FacilityID": 384,
+   "FacilityName": "Afraha Maternity and Nursing Home",
+   "MFLCode": 18382
+ },
+ {
+   "FacilityID": 386,
+   "FacilityName": "Hekima Dispensary",
+   "MFLCode": 14545
+ },
+ {
+   "FacilityID": 393,
+   "FacilityName": "Industrial Area Dispensary",
+   "MFLCode": 14575
+ },
+ {
+   "FacilityID": 394,
+   "FacilityName": "Kapkures Dispensary (Nakuru Central)",
+   "MFLCode": 14733
+ },
+ {
+   "FacilityID": 397,
+   "FacilityName": "Kiti Dispensary",
+   "MFLCode": 17742
+ },
+ {
+   "FacilityID": 398,
+   "FacilityName": "Lanet Health Centre",
+   "MFLCode": 15008
+ },
+ {
+   "FacilityID": 399,
+   "FacilityName": "Langa Langa Health Centre",
+   "MFLCode": 15009
+ },
+ {
+   "FacilityID": 400,
+   "FacilityName": "Mirugi Kariuki Dispensary",
+   "MFLCode": 15188
+ },
+ {
+   "FacilityID": 401,
+   "FacilityName": "Mother Kevin Dispensary (Catholic)",
+   "MFLCode": 15232
+ },
+ {
+   "FacilityID": 402,
+   "FacilityName": "Nakuru Nursing Home",
+   "MFLCode": 15287
+ },
+ {
+   "FacilityID": 403,
+   "FacilityName": "Nakuru Provincial General Hospital (PGH)",
+   "MFLCode": 15288
+ },
+ {
+   "FacilityID": 404,
+   "FacilityName": "Nakuru West (PCEA) Health Centre",
+   "MFLCode": 15290
+ },
+ {
+   "FacilityID": 405,
+   "FacilityName": "Nakuru West Health Centre",
+   "MFLCode": 15365
+ },
+ {
+   "FacilityID": 406,
+   "FacilityName": "Bondeni Maternity",
+   "MFLCode": 14265
+ },
+ {
+   "FacilityID": 417,
+   "FacilityName": "Bahati Dispensary",
+   "MFLCode": 14223
+ },
+ {
+   "FacilityID": 418,
+   "FacilityName": "Bahati District Hospital",
+   "MFLCode": 14224
+ },
+ {
+   "FacilityID": 419,
+   "FacilityName": "Dundori Health Centre",
+   "MFLCode": 14424
+ },
+ {
+   "FacilityID": 420,
+   "FacilityName": "Engashura Health Centre",
+   "MFLCode": 14458
+ },
+ {
+   "FacilityID": 424,
+   "FacilityName": "Kabatini Health Centre",
+   "MFLCode": 14610
+ },
+ {
+   "FacilityID": 426,
+   "FacilityName": "Kiwamu Dispensary",
+   "MFLCode": 14954
+ },
+ {
+   "FacilityID": 427,
+   "FacilityName": "St Antony Health Centre",
+   "MFLCode": 15628
+ },
+ {
+   "FacilityID": 438,
+   "FacilityName": "Egerton University",
+   "MFLCode": 14426
+ },
+ {
+   "FacilityID": 439,
+   "FacilityName": "Huruma Dispensary",
+   "MFLCode": 14552
+ },
+ {
+   "FacilityID": 444,
+   "FacilityName": "Kihingo Dispensary (CDF)",
+   "MFLCode": 16390
+ },
+ {
+   "FacilityID": 445,
+   "FacilityName": "Lare Health Centre",
+   "MFLCode": 15013
+ },
+ {
+   "FacilityID": 446,
+   "FacilityName": "Likia Dispensary",
+   "MFLCode": 16684
+ },
+ {
+   "FacilityID": 447,
+   "FacilityName": "Mau Narok Health Centre",
+   "MFLCode": 15156
+ },
+ {
+   "FacilityID": 448,
+   "FacilityName": "Mauche Dispensary",
+   "MFLCode": 15159
+ },
+ {
+   "FacilityID": 450,
+   "FacilityName": "Mutarakwa Dispensary (Molo)",
+   "MFLCode": 15262
+ },
+ {
+   "FacilityID": 451,
+   "FacilityName": "Neissuit Dispensary",
+   "MFLCode": 15331
+ },
+ {
+   "FacilityID": 453,
+   "FacilityName": "Njoro Health Centre",
+   "MFLCode": 15358
+ },
+ {
+   "FacilityID": 455,
+   "FacilityName": "Pwani (GOK) Dispensary",
+   "MFLCode": 15474
+ },
+ {
+   "FacilityID": 456,
+   "FacilityName": "Sururu Health Centre (CDF)",
+   "MFLCode": 16407
+ },
+ {
+   "FacilityID": 457,
+   "FacilityName": "Mauche Medical Clinic",
+   "MFLCode": 15160
+ },
+ {
+   "FacilityID": 466,
+   "FacilityName": "Kabarak Health Centre",
+   "MFLCode": 14606
+ },
+ {
+   "FacilityID": 469,
+   "FacilityName": "Lengenet Dispensary",
+   "MFLCode": 15027
+ },
+ {
+   "FacilityID": 470,
+   "FacilityName": "Lower Solai Dispensary",
+   "MFLCode": 15097
+ },
+ {
+   "FacilityID": 471,
+   "FacilityName": "Maji Tamu Health Centre",
+   "MFLCode": 15114
+ },
+ {
+   "FacilityID": 472,
+   "FacilityName": "Mangu Dispensary (Rongai)",
+   "MFLCode": 15119
+ },
+ {
+   "FacilityID": 474,
+   "FacilityName": "Mogotio RHDC",
+   "MFLCode": 15200
+ },
+ {
+   "FacilityID": 475,
+   "FacilityName": "Nyamamithi Dispensary",
+   "MFLCode": 15372
+ },
+ {
+   "FacilityID": 478,
+   "FacilityName": "Rongai Health Centre",
+   "MFLCode": 15495
+ },
+ {
+   "FacilityID": 480,
+   "FacilityName": "Sisto Mazoldi Dispensary (Rongai)",
+   "MFLCode": 18011
+ },
+ {
+   "FacilityID": 486,
+   "FacilityName": "Kabazi Health Centre",
+   "MFLCode": 14611
+ },
+ {
+   "FacilityID": 490,
+   "FacilityName": "Subukia Health Centre",
+   "MFLCode": 15678
+ },
+ {
+   "FacilityID": 491,
+   "FacilityName": "Upper Solai Health Centre",
+   "MFLCode": 15763
+ },
+ {
+   "FacilityID": 492,
+   "FacilityName": "Wasammy Medical Clinic",
+   "MFLCode": 15773
+ },
+ {
+   "FacilityID": 496,
+   "FacilityName": "Enabelbel Health Centre",
+   "MFLCode": 14453
+ },
+ {
+   "FacilityID": 497,
+   "FacilityName": "Enaibor Ajijik Dispensary",
+   "MFLCode": 14454
+ },
+ {
+   "FacilityID": 500,
+   "FacilityName": "Ilaiser Dispensary",
+   "MFLCode": 14562
+ },
+ {
+   "FacilityID": 501,
+   "FacilityName": "Nairagie-Enkare Health Centre",
+   "MFLCode": 15277
+ },
+ {
+   "FacilityID": 503,
+   "FacilityName": "Narok District Hospital",
+   "MFLCode": 15311
+ },
+ {
+   "FacilityID": 504,
+   "FacilityName": "Nkareta Dispensary",
+   "MFLCode": 15363
+ },
+ {
+   "FacilityID": 505,
+   "FacilityName": "Ntulele Dispensary",
+   "MFLCode": 15367
+ },
+ {
+   "FacilityID": 507,
+   "FacilityName": "Olchorro Health Centre",
+   "MFLCode": 15389
+ },
+ {
+   "FacilityID": 509,
+   "FacilityName": "Sakutiek Health Centre",
+   "MFLCode": 15516
+ },
+ {
+   "FacilityID": 511,
+   "FacilityName": "Olposimoru Dispensary",
+   "MFLCode": 15431
+ },
+ {
+   "FacilityID": 512,
+   "FacilityName": "Olokurto Health Centre",
+   "MFLCode": 15420
+ },
+ {
+   "FacilityID": 513,
+   "FacilityName": "Baraka Health Centre",
+   "MFLCode": 17757
+ },
+ {
+   "FacilityID": 514,
+   "FacilityName": "Entesekera Health Centre (Loita Community Health & Educ. Centre)",
+   "MFLCode": 14479
+ },
+ {
+   "FacilityID": 517,
+   "FacilityName": "Mulot Catholic Dispensary",
+   "MFLCode": 15251
+ },
+ {
+   "FacilityID": 518,
+   "FacilityName": "Mulot Health Centre",
+   "MFLCode": 17740
+ },
+ {
+   "FacilityID": 519,
+   "FacilityName": "Naroosura Health Centre",
+   "MFLCode": 15312
+ },
+ {
+   "FacilityID": 520,
+   "FacilityName": "Nkorinkori Dispensary",
+   "MFLCode": 15364
+ },
+ {
+   "FacilityID": 523,
+   "FacilityName": "Ololulunga District Hospital",
+   "MFLCode": 15423
+ },
+ {
+   "FacilityID": 525,
+   "FacilityName": "Sekenani Health Centre",
+   "MFLCode": 15541
+ },
+ {
+   "FacilityID": 526,
+   "FacilityName": "Sogoo Health Centre",
+   "MFLCode": 15605
+ },
+ {
+   "FacilityID": 528,
+   "FacilityName": "Olmekenyu Dispensary",
+   "MFLCode": 15414
+ },
+ {
+   "FacilityID": 602,
+   "FacilityName": "Annex Hospital (Nakuru)",
+   "MFLCode": 14207
+ },
+ {
+   "FacilityID": 603,
+   "FacilityName": "Rhonda Dispensary and Maternity",
+   "MFLCode": 20137
+ },
+ {
+   "FacilityID": 800,
+   "FacilityName": "Archers Post Health Centre",
+   "MFLCode": 14212
+ },
+ {
+   "FacilityID": 801,
+   "FacilityName": "Baragoi Catholic Dispensary",
+   "MFLCode": 14227
+ },
+ {
+   "FacilityID": 802,
+   "FacilityName": "Baragoi Sub-District Hospital",
+   "MFLCode": 14228
+ },
+ {
+   "FacilityID": 803,
+   "FacilityName": "Barsaloi GK Dispensary",
+   "MFLCode": 14237
+ },
+ {
+   "FacilityID": 804,
+   "FacilityName": "Elelea Sub-county Hospital",
+   "MFLCode": 14436
+ },
+ {
+   "FacilityID": 805,
+   "FacilityName": "Ngilai Dispensary",
+   "MFLCode": 14459
+ },
+ {
+   "FacilityID": 807,
+   "FacilityName": "Juluk Dispensary",
+   "MFLCode": 14601
+ },
+ {
+   "FacilityID": 810,
+   "FacilityName": "Kainuk Health Centre",
+   "MFLCode": 14645
+ },
+ {
+   "FacilityID": 812,
+   "FacilityName": "Kalemungorok Dispensary",
+   "MFLCode": 14660
+ },
+ {
+   "FacilityID": 813,
+   "FacilityName": "Kalokol (AIC) Health Centre",
+   "MFLCode": 14663
+ },
+ {
+   "FacilityID": 815,
+   "FacilityName": "Katilu Sub County Hospital",
+   "MFLCode": 14818
+ },
+ {
+   "FacilityID": 816,
+   "FacilityName": "Kerio Health Centre",
+   "MFLCode": 14838
+ },
+ {
+   "FacilityID": 817,
+   "FacilityName": "Kisima Health Centre",
+   "MFLCode": 14943
+ },
+ {
+   "FacilityID": 818,
+   "FacilityName": "Latakweny Dispensary",
+   "MFLCode": 15014
+ },
+ {
+   "FacilityID": 819,
+   "FacilityName": "Ledero Dispensary",
+   "MFLCode": 15017
+ },
+ {
+   "FacilityID": 820,
+   "FacilityName": "Lesirikan Health Centre",
+   "MFLCode": 15029
+ },
+ {
+   "FacilityID": 821,
+   "FacilityName": "Lochwaangikamatak Dispensary",
+   "MFLCode": 15045
+ },
+ {
+   "FacilityID": 822,
+   "FacilityName": "Lokichar (RCEA) Health Centre",
+   "MFLCode": 15057
+ },
+ {
+   "FacilityID": 824,
+   "FacilityName": "Lokiriama Dispensary",
+   "MFLCode": 15061
+ },
+ {
+   "FacilityID": 826,
+   "FacilityName": "Lokori (AIC) Health Centre",
+   "MFLCode": 15064
+ },
+ {
+   "FacilityID": 827,
+   "FacilityName": "Lokwii Health center",
+   "MFLCode": 15067
+ },
+ {
+   "FacilityID": 828,
+   "FacilityName": "Longewan Dispensary",
+   "MFLCode": 15076
+ },
+ {
+   "FacilityID": 831,
+   "FacilityName": "Maralal Catholic Dispensary",
+   "MFLCode": 15125
+ },
+ {
+   "FacilityID": 832,
+   "FacilityName": "Maralal District Hospital",
+   "MFLCode": 15126
+ },
+ {
+   "FacilityID": 833,
+   "FacilityName": "Nadoto Dispensary",
+   "MFLCode": 15275
+ },
+ {
+   "FacilityID": 834,
+   "FacilityName": "Nakurio Dispensary",
+   "MFLCode": 15285
+ },
+ {
+   "FacilityID": 835,
+   "FacilityName": "Nakwamoru Health Centre",
+   "MFLCode": 15292
+ },
+ {
+   "FacilityID": 836,
+   "FacilityName": "Namukuse Dispensary",
+   "MFLCode": 15301
+ },
+ {
+   "FacilityID": 837,
+   "FacilityName": "Ndonyo Wasin Dispensary",
+   "MFLCode": 15327
+ },
+ {
+   "FacilityID": 838,
+   "FacilityName": "Sereolipi Health Centre",
+   "MFLCode": 15547
+ },
+ {
+   "FacilityID": 839,
+   "FacilityName": "South Horr Dispensary",
+   "MFLCode": 15621
+ },
+ {
+   "FacilityID": 840,
+   "FacilityName": "South Horr Catholic Health Centre",
+   "MFLCode": 15622
+ },
+ {
+   "FacilityID": 841,
+   "FacilityName": "St Catherine's Napetet Dispensary",
+   "MFLCode": 15634
+ },
+ {
+   "FacilityID": 842,
+   "FacilityName": "St Mary's Kalokol Primary Health Care Programme",
+   "MFLCode": 15656
+ },
+ {
+   "FacilityID": 843,
+   "FacilityName": "St Monica Nakwamekwi Dispensary",
+   "MFLCode": 15661
+ },
+ {
+   "FacilityID": 844,
+   "FacilityName": "St Patrick's Kanamkemer Dispensary",
+   "MFLCode": 15662
+ },
+ {
+   "FacilityID": 845,
+   "FacilityName": "Suguta Marmar Health Centre",
+   "MFLCode": 15682
+ },
+ {
+   "FacilityID": 846,
+   "FacilityName": "Swari Model Health Centre",
+   "MFLCode": 15693
+ },
+ {
+   "FacilityID": 847,
+   "FacilityName": "Wamba Health Centre",
+   "MFLCode": 15768
+ },
+ {
+   "FacilityID": 848,
+   "FacilityName": "Catholic Hospital Wamba",
+   "MFLCode": 15769
+ },
+ {
+   "FacilityID": 849,
+   "FacilityName": "West Gate Dispensary",
+   "MFLCode": 15780
+ },
+ {
+   "FacilityID": 850,
+   "FacilityName": "Lokori Primary Health Care Programme",
+   "MFLCode": 16324
+ },
+ {
+   "FacilityID": 851,
+   "FacilityName": "Nkutuk Elmuget Dispensary",
+   "MFLCode": 18030
+ }
+]

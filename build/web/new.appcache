@@ -1,0 +1,57 @@
+CACHE MANIFEST
+# 2019-03-07 v1.0.0.3
+
+# all css files
+css/dataTables.bootstrap.min.css
+css/jquery.dataTables.min.css
+css/bootstrap.css
+css/bootstrap-datepicker.min.css
+css/dataTables.bootstrap.css
+css/datatables.min.css
+css/select2.min.css
+css/styles.css
+css/bootstrap.css.map
+
+#js files
+js/jquery.min.js
+js/bootstrap.js
+js/scripts.js
+js/bootstrap-datepicker.min.js
+js/select2.min.js
+js/pouchdb-7.0.0.js
+js/pouchdb-7.0.0.min.js
+js/pouchdb.find.js
+js/datatables.min.js
+js/dataTables.bootstrap.js
+js/jquery.fileDownload.js
+js/sweetalert.min.js
+
+#images
+images/ajax_loader.gif
+images/favicon.ico
+images/sort_asc.png
+images/sort_asc_disabled.png
+images/sort_both.png
+images/sort_desc.png
+images/sort_desc_disabled.png
+images/delete.png
+images/loading.gif
+logo.png
+
+#json files
+json/facilities.json
+
+#fonts
+fonts/glyphicons-halflings-regular.woff2
+fonts/glyphicons-halflings-regular.woff
+fonts/glyphicons-halflings-regular.ttf
+fonts/glyphicons-halflings-regular.eot
+fonts/glyphicons-halflings-regular.svg
+
+NETWORK:
+#index.jsp
+#export_data.jsp
+#excelreport.jsp
+
+FALLBACK:
+#/html/ /offline.html
